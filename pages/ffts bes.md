@@ -22,4 +22,6 @@ title: FFTS BES
 ### TSP interoperability
 ### MOM interoperability
 ### Third-party interface interoperability
-###
+### Payment service interface
+### Application operation
+### Configuration and business rule management
