@@ -15,4 +15,4 @@ title: FFTS BES
 ### Manual image review
 ### Reports
 ### Security
-### Customer case
+### Customer case management (enquiry and complaint)
