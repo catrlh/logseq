@@ -28,9 +28,4 @@ title: FFTS BES
 ### Design principle
 ###
 ##
-##
-##
-##
-##
-##
 ## Design
