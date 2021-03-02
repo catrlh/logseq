@@ -19,3 +19,7 @@ title: FFTS BES
 ### Customer support service
 ### File storage and management
 ### Notification
+### TSP interoperability
+### MOM interoperability
+### Third-party interface interoperability
+###
