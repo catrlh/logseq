@@ -27,3 +27,4 @@ title: FFTS BES
 ### Configuration and business rule management
 ## Our solution is based on Kafka and Kubernetes with Axway AMPLIFY for the API Gateways
 ### NetApp StorageGRID
+### the API Gateways, Kubernetes Nodes, Storage Nodes, the Kafka messaging bus, Elasticsearch, etc. are clustered on the one site.
