@@ -25,4 +25,4 @@ title: FFTS BES
 ### Payment service interface
 ### Application operation
 ### Configuration and business rule management
-##
+## Our solution is based on Kafka and Kubernetes with Axway AMPLIFY for the API Gateways
